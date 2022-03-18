@@ -1,0 +1,66 @@
+.white-area {
+  width: 800px;
+  height: 400px;
+  background-color: #fff;
+  position: absolute;
+  top: 35%;
+  left: 35%;
+  margin-top: -100px;
+  margin-left: -100px;
+  border-radius: 10px 10px;
+}
+.index-input {
+  background-color: #fff;
+  height: 10px;
+  display: flex;
+  margin: 100px;
+}
+.index-input #button {
+  margin-left: 20px;
+  color: #fff;
+  background-color: #b8b8b8;
+  border: none;
+  border-radius: 20px 20px;
+  font-size: 30px;
+  cursor: pointer;
+}
+.index-input #button:hover {
+  background-color: #949494;
+  transition: 0.3s ease-in-out;
+}
+
+.index-input input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #000;
+  color: #000;
+  font-size: 30px;
+}
+.index-input input:focus {
+  outline: none;
+}
+
+.font-options {
+  margin-left: 12%;
+  justify-content: space-between;
+}
+.font-options button {
+  background-color: transparent;
+  color: #b8b8b8;
+  font-size: 30px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.font-options button:hover {
+  color: #000;
+  transition: 0.3s ease-in-out;
+}
+.font-options button:focus {
+  color: #000;
+}
+.actual-word {
+  margin: 60px 100px;
+  font-size: 30px;
+}
