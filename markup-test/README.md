@@ -2,4 +2,6 @@
 
 ## Para a confecção do primeiro teste proposto, a clonagem de uma linkedin page, utilizei o React com styled components. Busquei realizar a reprodução fiel ao modelo fornecido.
 
+## Para acessar o projeto, acessar o diretório markup-test e dentro dele rodar o comando "npm start".
+
 ## Devido a estar conciliando com trabalho e faculdade, não tive tempo para ajustar questões de responsividade e adicionar muitas funcionalidades extras, mas é algo que sei fazer (vide meus projetos no Github), embora não esteja presente neste projeto (feito somente para 1920 x 1080).
